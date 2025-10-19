@@ -1,2 +1,13 @@
 ipykernel
 python-dotenv
+langchain
+langchain-core
+langchain-community
+pypdf
+pymupdf
+tqdm
+sentence-transformers
+faiss-cpu
+chromadb
+langchain-groq
+python-dotenv
